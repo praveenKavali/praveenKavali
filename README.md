@@ -78,8 +78,8 @@ I'm a **Software Developer** who builds production-style full-stack applications
 
 <div align="center">
 
-<img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=praveenKavali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" />
-<img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenKavali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" />
+<img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=praveenKavali&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenKavali&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
@@ -94,10 +94,10 @@ I'm a **Software Developer** who builds production-style full-stack applications
 <div align="center">
 
 <a href="https://github.com/praveenKavali/MoonBank">
-  <img alt="Moon Bank" src="https://github-readme-stats.vercel.app/api/pin/?username=praveenKavali&repo=MoonBank&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img alt="Moon Bank" src="https://github-readme-stats.vercel.app/api/pin/?username=praveenKavali&repo=MoonBank&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/praveenKavali/MoonTask">
-  <img alt="Moon Task" src="https://github-readme-stats.vercel.app/api/pin/?username=praveenKavali&repo=MoonTask&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img alt="Moon Task" src="https://github-readme-stats.vercel.app/api/pin/?username=praveenKavali&repo=MoonTask&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
